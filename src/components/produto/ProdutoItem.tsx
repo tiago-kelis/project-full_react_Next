@@ -16,7 +16,7 @@ export  function ProdutoItem(props: ProdutoItemProps) {
     return <Link
     
     href={`/produto/${props.produto.id}`}
-    className="flex flex-col bg-violet-dark border border-zinc-500"   
+    className="flex flex-col bg-violet-dark border border-zinc-500 rounded-3xl"   
     
     >    
 
