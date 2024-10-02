@@ -3,12 +3,12 @@ const nextConfig = {  images: {
     remotePatterns: [
         {
             protocol: 'https',
-            hostname: 'https://images-americanas.b2w.io/',
+            hostname: '**',
 
         },
         {
             protocol: 'https',
-            hostname: 'https://th.bing.com/',
+            hostname: '**',
 
         },
     ],
