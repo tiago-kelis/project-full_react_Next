@@ -1,4 +1,4 @@
-import { Produtos } from "@/core";
+import { Produtos } from "@gam3r/core";
 import { ProdutoItem } from "./ProdutoItem";
 import ProdutoNaoEmcontrado from "./ProdutoNaoEmcontrado";
 

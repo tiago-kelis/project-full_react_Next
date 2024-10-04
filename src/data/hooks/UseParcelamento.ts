@@ -1,4 +1,4 @@
-import { CalcularParcelamento } from "@/core"
+import { CalcularParcelamento } from "@gam3r/core"
 
 
 export default function UseParcelamento(valor: number, quantidade: number) {

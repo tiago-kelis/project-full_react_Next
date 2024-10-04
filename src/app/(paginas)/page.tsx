@@ -1,7 +1,7 @@
 
 import { ProdutoItem } from "@/components/produto/ProdutoItem";
 import Pagina from "@/components/template/Pagina";
-import { Produtos } from "@/core";
+import { Produtos } from "@gam3r/core";
 
 
 

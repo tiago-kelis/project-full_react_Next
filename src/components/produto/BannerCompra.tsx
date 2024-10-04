@@ -1,6 +1,6 @@
 'use client'
 import { IconCreditCard, IconShoppingCart } from '@tabler/icons-react'
-import { Moeda, Produto, QTDE_MAX_PARCELAS } from '@/core'
+import { Moeda, Produto, QTDE_MAX_PARCELAS } from '@gam3r/core'
 // import useCarrinho from '@/data/hooks/useCarrinho'
 import { useRouter } from 'next/navigation'
 import UseParcelamento from '@/data/hooks/UseParcelamento'

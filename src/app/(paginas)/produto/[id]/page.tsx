@@ -3,7 +3,7 @@ import InformacoesProduto from "@/components/produto/InformacoesProduto"
 import ProdutoNaoEmcontrado from "@/components/produto/ProdutoNaoEmcontrado"
 import TituloProduto from "@/components/produto/TituloProduto"
 import Pagina from "@/components/template/Pagina"
-import { Produtos } from "@/core"
+import { Produtos } from "@gam3r/core"
 
 
 

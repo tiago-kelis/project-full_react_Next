@@ -1,5 +1,5 @@
 import { IconTag } from '@tabler/icons-react'
-import { Produto } from '@/core'
+import { Produto } from '@gam3r/core'
 import Tag from '../shared/Tag'
 
 export interface EspecificacoesProps {

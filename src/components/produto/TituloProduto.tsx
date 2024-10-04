@@ -1,4 +1,4 @@
-import { Produto } from "@/core"
+import { Produto } from "@gam3r/core"
 
 
 export interface TituloProdutoProps {
